@@ -1,2 +1,2 @@
-# algorithms
-Algorithms and data structures 
+# CALCULON
+Algorithms, data structures and calculus 
